@@ -35,6 +35,8 @@ dependencies {
 
     implementation project(path: ':toastlib')
 
+//    implementation 'com.github.arpitabvm:ToastDemoLive:1.0.0'
+
 
 
 }

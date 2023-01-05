@@ -9,4 +9,8 @@ public class Toast1 {
     public static void toast_show(Activity activity, String name) {
         android.widget.Toast.makeText(activity, "" + name, LENGTH_SHORT).show();
     }
+
+    public static void toast_show1(Activity activity, String name) {
+        android.widget.Toast.makeText(activity, "" + name, LENGTH_SHORT).show();
+    }
 }
