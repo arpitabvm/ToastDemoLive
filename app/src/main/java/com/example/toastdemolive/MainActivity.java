@@ -4,7 +4,7 @@ import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
 
-import com.example.toastlib.Toast1;
+import com.example.toastlib.Toast2;
 
 public class MainActivity extends AppCompatActivity {
 
@@ -14,6 +14,6 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
 
-        Toast1.toast_show(this, "aaaaa");
+        Toast2.toast_show(this, "aaaaa");
     }
 }

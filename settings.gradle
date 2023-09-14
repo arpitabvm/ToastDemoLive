@@ -18,3 +18,4 @@ dependencyResolutionManagement {
 rootProject.name = "ToastDemoLive"
 include ':app'
 include ':toastlib'
+include ':toastlib1'
